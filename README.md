@@ -1,4 +1,4 @@
-# quiz-app
+
 
 This is a quiz app to help students review Web Development Fundamentals utilizing HTML, CSS and JavaScript. 
 
